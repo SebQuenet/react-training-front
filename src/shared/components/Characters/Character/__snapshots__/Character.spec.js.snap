@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character component should render correctly when the real name of actor is define 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-card-1 MuiPaper-rounded"
+>
+  <div
+    className="MuiCardContent-root"
+  >
+    <p
+      className="MuiTypography-root makeStyles-title-3 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom"
+    >
+      Acteur
+    </p>
+    <h2
+      className="MuiTypography-root MuiTypography-h5"
+    >
+      Patrick Malahide
+    </h2>
+    <p
+      className="MuiTypography-root makeStyles-pos-4 MuiTypography-body1 MuiTypography-colorTextSecondary"
+    >
+      Rôle(s)
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Brave
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Blessed
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Twice Crowned
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Widowmaker
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      The Kraken King
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Character component should render correctly when the real name of actor is not define 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-card-1 MuiPaper-rounded"
+>
+  <div
+    className="MuiCardContent-root"
+  >
+    <p
+      className="MuiTypography-root makeStyles-title-3 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom"
+    >
+      Acteur
+    </p>
+    <h2
+      className="MuiTypography-root MuiTypography-h5"
+    >
+      Non Defini(e)
+    </h2>
+    <p
+      className="MuiTypography-root makeStyles-pos-4 MuiTypography-body1 MuiTypography-colorTextSecondary"
+    >
+      Rôle(s)
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Brave
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Blessed
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Twice Crowned
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Balon the Widowmaker
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      The Kraken King
+    </p>
+  </div>
+</div>
+`;

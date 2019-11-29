@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book component should render correctly 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-card-1 MuiPaper-rounded"
+>
+  <div
+    className="MuiCardContent-root"
+  >
+    <p
+      className="MuiTypography-root makeStyles-title-3 MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom"
+    >
+      Titre du Livre
+    </p>
+    <h2
+      className="MuiTypography-root MuiTypography-h5"
+    >
+      The Hedge Knight
+    </h2>
+    <p
+      className="MuiTypography-root makeStyles-pos-4 MuiTypography-body1 MuiTypography-colorTextSecondary"
+    >
+      Auteur
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      George R. R. Martin
+    </p>
+    <br />
+    <p
+      className="MuiTypography-root makeStyles-pos-4 MuiTypography-body1 MuiTypography-colorTextSecondary"
+    >
+      Éditeur
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Dabel Brothers Publishing
+    </p>
+  </div>
+  <div
+    className="MuiCardActions-root MuiCardActions-spacing"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Voir plus...
+      </span>
+    </button>
+  </div>
+</div>
+`;

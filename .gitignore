@@ -11,6 +11,20 @@
 # production
 /build
 
+# node-waf configuration
+.lock-wscript
+package-lock.json
+
+# IntelliJ IDE ignore
+.idea
+*.iml
+
+# Visual Studio Code
+.vscode
+
+# Flow Coverage Report
+flow-coverage/
+
 # misc
 .DS_Store
 .env.local
